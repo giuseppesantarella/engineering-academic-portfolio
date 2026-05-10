@@ -1,5 +1,6 @@
-14 feb 2026
-I file usati per ottenere i risultati inseriti nel testo della tesi sono:
+May 10 2026
+
+The files used to obtain the results showed in the PDF are the following:
 - Propagation_outofplane_transfer
 - Dinamica_numerica_MPC
 - final_controller_1deputy2
