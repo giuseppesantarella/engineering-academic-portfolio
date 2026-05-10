@@ -22,7 +22,7 @@ Academic research project involving modelling, analysis and technical reporting.
 
 ## Notes
 
-Some projects were developed using academic or proprietary software licenses. For this reason, not all original files may be executable outside the original academic environment. The repository focuses on making the methodology, architecture, results and technical contribution understandable and verifiable.
+The project was developed in MATLAB/Simulink. The current academic license allows validation and export of simulation results until April 30 2027. For this reason, not all original files may be executable outside the original academic environment. The repository focuses on making the methodology, architecture, results and technical contribution understandable and verifiable.
 
 ## Contact
 
